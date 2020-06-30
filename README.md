@@ -1,2 +1,2 @@
 # Information-Security-Tools
-Some tools writen by myself or others for 'Information Security' course.
+Some tools writen by myself for 'Information Security' course.
